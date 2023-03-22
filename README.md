@@ -24,6 +24,7 @@
 <a href="https://www.elastic.co/kibana/"><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/01/kibana_txqrBh4.png" alt="Kibana"/>
 <a href="https://prometheus.io/"><img height="32" src="https://d2m06gn7cjwia2.cloudfront.net/prometheus.png" alt="Prometheus"/>
 <a href="https://git-scm.com/"><img height="32" src="https://pbs.twimg.com/profile_images/603998639879524353/hsgXEiRX_400x400.png" alt="Prometheus"/>
+<a href="https://katalon.com/"><img height="32" src="https://images.opencollective.com/katalon_studio/ff84f07/logo/256.png" alt="Katalon"/>
 
 ## :cloud: Cloud
 <a href="#"><img height="32" src="https://pcr.cloud-mercato.com/static/img/logos/aws.png" alt="AWS"/>
